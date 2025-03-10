@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'Icons';
     font-display: block;
-    src: url("../../../assets/fonts/fficons/fficons.woff2") format("woff2"), url("../../../assets/fonts/fficons/fficons.woff") format("woff"), url("../../../assets/fonts/fficons/fficons.ttf") format("truetype")
+    src: url("assets/fonts/fficons/fficons.woff2") format("woff2"), url("assets/fonts/fficons/fficons.woff") format("woff"), url("assets/fonts/fficons/fficons.ttf") format("truetype")
 }
 
 @font-face {
     font-family: 'Calibre';
     font-style: normal;
     font-weight: 300;
-    src: local('Calibre Regular'), url(../../../assets/fonts/Calibre-Regular.otf);
+    src: local('Calibre Regular'), url(assets/fonts/Calibre-Regular.otf);
 
 }
 
@@ -12630,9 +12630,9 @@ section.widget-options :not(.ui-select-search-inner)>input[type="text"]:disabled
 @font-face {
     font-family: 'ffsnowflakes';
     font-display: block;
-    src: url("../../../assets/fonts/ffsnowflakes/ffsnowflakes.woff2") format("woff2"),
-        url("../../../assets/fonts/ffsnowflakes/ffsnowflakes.woff") format("woff"),
-        url("../../../assets/fonts/ffsnowflakes/ffsnowflakes.ttf") format("truetype")
+    src: url("assets/fonts/ffsnowflakes/ffsnowflakes.woff2") format("woff2"),
+        url("assets/fonts/ffsnowflakes/ffsnowflakes.woff") format("woff"),
+        url("assets/fonts/ffsnowflakes/ffsnowflakes.ttf") format("truetype")
 }
 
 .main-bg-snow {
